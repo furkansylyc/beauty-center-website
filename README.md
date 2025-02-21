@@ -1,5 +1,5 @@
 
-# Güzellik merkezi için websitesi 
+# Güzellik merkezi websitesi 
 
 ## Proje Amacı
 Bu web projesi, güzellik merkezi hizmetlerini tanıtmak, müşteri çekmek ve randevu alma sürecini kolaylaştırmak amacıyla geliştirilmiştir.
